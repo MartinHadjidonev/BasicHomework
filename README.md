@@ -1,3 +1,3 @@
 # BasicHomework
 FirstStepsInCoding
-//First homework writen ever.
+//First homework written ever.
